@@ -1,1 +1,3 @@
-aula2
+print("hello")
+variavel = 2
+print(variavel)
