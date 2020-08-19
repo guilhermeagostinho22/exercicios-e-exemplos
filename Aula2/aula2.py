@@ -1,3 +1,4 @@
+#como mostrar algo na tela para o usuario 
 print("Ola")
 numeroInteiro = 22
 numeroDecimal = 2.20
