@@ -1,3 +1,7 @@
 print("hello")
-variavel = 2
-print(variavel)
+numeroInteiro = 22
+print(numeroInteiro)
+numeroDecimal = 2.20
+palavraCaractereDupla = "Guilherme"
+palavraCaractereSimples = 'Guilherme'
+verdadeiroFalso = True
