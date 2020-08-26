@@ -16,4 +16,9 @@ print("resposta da subtração: ", (numeroB - numeroA) )
 #multiplicação
 respostaMult = numeroA * numeroB
 print("resposta da multiplicação: ", respostaMult)
-print("resposta da multiplicação: ", (numeroA * numeroB) )
+print("resposta da multiplicação: ", (numeroA * numeroB))
+
+#divisão
+respostadivisao = numeroA / numeroB
+print("resposta da divisão: ", respostadivisao)
+print("resposta da divisão: ", (numeroA / numeroB))
