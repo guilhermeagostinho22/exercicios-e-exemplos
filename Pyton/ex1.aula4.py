@@ -22,3 +22,7 @@ print("resposta da multiplicação: ", (numeroA * numeroB))
 respostadivisao = numeroA / numeroB
 print("resposta da divisão: ", respostadivisao)
 print("resposta da divisão: ", (numeroA / numeroB))
+
+# forma da preguiça
+meuTexto = "resposta da"
+print(meuTexto, "multiplicação: ", respostaMult)
