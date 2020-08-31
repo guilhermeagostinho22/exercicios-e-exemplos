@@ -4,4 +4,4 @@ numeroC = float(input("terceira nota: "))
 numeroD = float(input("quarta nota: "))
 
 
-print("resposta da soma: ", (numeroA + numeroB + numeroC + numeroD/4))
+print("A resposta da soma: ", (numeroA + numeroB + numeroC + numeroD/4))
