@@ -3,6 +3,7 @@ cadastro = 0
 
 if cadastro <= 4:
     if escolha == 1:
+        cadastro = cadastro + 1
         nomeCompleto = SyntaxWarning(input("Digite seu Nome completo: ")) 
         cpf = int(input("Digite seu CPF: "))
         senha = int(input("Digite sua senha: "))
@@ -12,8 +13,7 @@ if cadastro <= 4:
         if info == 1:
             print("Apto: Está apto") 
         else: 
-            print("Apto: Não está apto")   
-        cadastro = cadastro + 1         
+            print("Apto: Não está apto")            
     else:
         print("Obrigado!!!")   
 else:
