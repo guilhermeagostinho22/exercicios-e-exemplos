@@ -1,5 +1,5 @@
 def check (name,comparename):
-    if comparename == name [::-1]:
+    if comparaNome == nome [::-1]:
         return True 
     else:
         return False
