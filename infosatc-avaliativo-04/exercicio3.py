@@ -14,8 +14,8 @@ def cadastroDados():
 
 xIdade = 0
 xPeso = 0
-xHoras =0
-cadastro=0
+xHoras = 0
+cadastro= 0
 
 idade=(int(input("Qual a sua idade? - ")))
 peso=(float(input("Qual o seu peso? - ")))
