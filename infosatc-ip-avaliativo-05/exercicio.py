@@ -1,8 +1,11 @@
 nome=[]
 cpf=[]
 endereco = []
-senha=[]
-apto=[]
+email = []
+celular = []
+senha= []
+apto = []
+
 
 def printFinal():
     print("Nome:   ",nome," \nCPF:    ",cpf," \nSenha:  ",senha," \nAptidão:",apto)
