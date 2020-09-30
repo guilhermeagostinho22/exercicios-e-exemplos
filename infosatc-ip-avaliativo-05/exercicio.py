@@ -39,9 +39,9 @@ else:
     print("Voce nao dormiu o suficiente!")
 if xIdade == 1 and xPeso == 1 and xHoras == 1:
     print("Você pode ser um doador!")
-    cadastro = (input(" Gostaria de se cadastrar?, Digite 1-Sim ou 2-Não:"))
+    cadastro = (input(" Gostaria de se cadastrar?1 Digite 1-Sim ou 2-Não:"))
     if cadastro=="1":
-        cadastrado = cadastrado+1
+        cadastro = cadastro+1
         cadastroDados() 
     else:
         print("Cadastro recusado.")
