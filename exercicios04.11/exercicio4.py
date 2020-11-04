@@ -10,5 +10,7 @@ n9 = int(input("digite mais um número: "))
 n10 = int(input("digite mais um número: "))
 lista = [n1,n2,n3,n4,n5,n6,n7,n8,n9,n10]
 
-numero=filter(lambda x: '%2==0' in x, print("é par: ",[lista]))  
-numero2=filter(lambda x: '%!=0' in x, print("é ímpar: ",[lista]))
+numero=filter(lambda x: '%2==0' in x, [lista])  
+print(list(numero))
+numero2=filter(lambda x: '%!=0' in x, [lista])
+print(list(numero2))
